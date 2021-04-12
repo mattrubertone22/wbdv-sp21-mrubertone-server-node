@@ -1,0 +1,14 @@
+{
+  "name": "wbdv-sp21-01-mrubertone-server-node",
+  "version": "1.0.0",
+  "description": "A7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Rubertone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
