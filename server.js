@@ -1,9 +1,9 @@
-const uri = process.env.MONGODB_URI;
+// const uri = process.env.MONGODB_URI;
 const express = require('express')
 const app = express()
 
 const mongoose = require('mongoose');
-mongoose.connect(uri,
+mongoose.connect("mongodb://localhost:27017/test",
     {useNewUrlParser: true, useUnifiedTopology: true});
 
 const session = require('express-session')

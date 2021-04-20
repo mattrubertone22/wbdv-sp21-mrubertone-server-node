@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f16b0690-9820-4fd6-8ee8-5c698f269383" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myDbPath/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/WiredTiger.turtle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myDbPath/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDbPath/collection-4-4152929687229582488.wt" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/collection-4-4152929687229582488.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myDbPath/diagnostic.data/metrics.2021-04-19T23-44-33Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/diagnostic.data/metrics.2021-04-19T23-44-33Z-00000" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myDbPath/diagnostic.data/metrics.interim" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/diagnostic.data/metrics.interim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDbPath/index-5-4152929687229582488.wt" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/index-5-4152929687229582488.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDbPath/index-6-4152929687229582488.wt" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/index-6-4152929687229582488.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDbPath/journal/WiredTigerLog.0000000002" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/journal/WiredTigerLog.0000000002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDbPath/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/myDbPath/sizeStorer.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618190028280</updated>
       <workItem from="1618190031743" duration="87000" />
-      <workItem from="1618190138894" duration="15859000" />
+      <workItem from="1618190138894" duration="17374000" />
     </task>
     <servers />
   </component>
